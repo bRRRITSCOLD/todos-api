@@ -1,0 +1,12 @@
+{
+  "name": "todos-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server data.json"
+  },
+  "author": "blaine richardson",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
